@@ -22,4 +22,4 @@ HTML, CSS
 ## Project Link
 
 
-[![badge](https://img.shields.io/badge/Click-here-brightgreen)](https://project5syedhtml.netlify.app/
+[![badge](https://img.shields.io/badge/Click-here-brightgreen)](https://project5syedhtml.netlify.app/)
